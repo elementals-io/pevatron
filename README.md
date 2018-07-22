@@ -23,9 +23,9 @@ Ensuring your websites quality and maintainability trough various checks.
 ### Other time-savers
 Automating unnecessary manual work.
 
+* Supporting incremental builds to reduce build time
 * Creating Google sitemap.xml
 * [Integrating into Gradle](https://github.com/elementals-io/pevatron-gradle)
-* Supporting incremental builds to reduce build time
 
 ### Reporting
 
