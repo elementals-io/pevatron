@@ -18,7 +18,6 @@ Ensuring your websites quality and maintainability trough various checks
 * Checking for dead links
 * Detecting unused resources
 * Validating HTML
-* Removing unnecessary CSS
 
 ## Other time-savers
 
