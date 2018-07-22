@@ -18,12 +18,13 @@ Ensuring your websites quality and maintainability trough various checks.
 
 * Checking for dead links
 * Detecting unused resources
-* Validating HTML
+* Validating HTML, Google Pagespeed
 
 ### Other time-savers
 Automating unnecessary manual work.
 
 * Supporting incremental builds to reduce build time
+* Generating images for various pixel ratios
 * Creating Google sitemap.xml
 * [Integrating into Gradle](https://github.com/elementals-io/pevatron-gradle)
 
