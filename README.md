@@ -23,7 +23,7 @@ Ensuring your websites quality and maintainability trough various checks
 ## Other time-savers
 
 * Creating Google sitemap.xml
-* Gradle integration
+* Integration into Gradle
 
 ## Reporting
 
