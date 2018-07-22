@@ -23,7 +23,7 @@ Ensuring your websites quality and maintainability trough various checks
 ## Other time-savers
 
 * Creating Google sitemap.xml
-* Integrating into Gradle
+* [Integrating into Gradle](https://github.com/elementals-io/pevatron-gradle)
 
 ## Reporting
 
