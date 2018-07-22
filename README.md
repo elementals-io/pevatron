@@ -25,7 +25,7 @@ Automating unnecessary manual work.
 
 * Creating Google sitemap.xml
 * [Integrating into Gradle](https://github.com/elementals-io/pevatron-gradle)
-* Supporint incremental builds to reduce build time
+* Supporting incremental builds to reduce build time
 
 ### Reporting
 
