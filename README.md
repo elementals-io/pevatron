@@ -1,4 +1,4 @@
-# pevatron
+# Pevatron
 Static website accelerator library
 
 > Note: Pevatron is currently in alpha state and not publicly available. Please write to admin@elementals.io if you want to be notified when the first beta is available.
@@ -23,6 +23,7 @@ Ensuring your websites quality and maintainability trough various checks
 ## Other time-savers
 
 * Creating Google sitemap.xml
+* Available as Gradle plugin
 
 ## Reporting
 
